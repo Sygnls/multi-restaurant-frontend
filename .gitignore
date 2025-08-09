@@ -1,12 +1,9 @@
-# Node
 node_modules/
 .env
 .env.*.local
 logs
 *.log*
-dist/
-build/
 .next/
+out/
 coverage/
 .DS_Store
-
